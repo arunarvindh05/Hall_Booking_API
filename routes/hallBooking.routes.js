@@ -8,7 +8,7 @@ let rooms = [
       room_id: 1,
       seats: 5,
       amenities: ['Wifi,Food,AC,TV,Private_pool'],
-      price_per_hour: 1500,
+      price_per_hour: 5500,
     },
     {
       room_name: 'Premium',
